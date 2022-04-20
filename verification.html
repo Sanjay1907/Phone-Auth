@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+   <head>
+      <meta charset="utf-8">
+      <title>Phone Authentication</title>
+      <link rel="stylesheet" href="assets/css/style.css">
+   </head>
+   <body>
+    <div class="container">
+        <header>Verify Otp</header>
+        <form>
+           <div class="input-field">
+              <input type="text" id="number" required>
+              <label>Otp</label>
+           </div>
+           <div class="button" onclick="verifyotp();">
+              <div class="inner"></div>
+              <button>Verify</button>
+           </div>
+        </form>
+    </div>
+    <script src="https://www.gstatic.com/firebasejs/8.3.1/firebase.js"></script>
+   <script src="assets/js/script.js"></script>
+ </body>
+</html>
