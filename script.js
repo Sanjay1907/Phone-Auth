@@ -1,11 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyCsYLrgAl_SC_Dl2YnraLAnhuTTJpl42-A",
-    authDomain: "credit-card-fraud-detect-5e545.firebaseapp.com",
-    projectId: "credit-card-fraud-detect-5e545",
-    storageBucket: "credit-card-fraud-detect-5e545.appspot.com",
-    messagingSenderId: "425751419755",
-    appId: "1:425751419755:web:58292baf54e318660e0a2e",
-    measurementId: "G-JS0CYPMDW5"
+    apiKey: "AIzaSyDR1u-rCnLqTP47ozJhN1KLskhtFwW6VVs",
+  authDomain: "phone-otp-158bd.firebaseapp.com",
+  databaseURL: "https://phone-otp-158bd-default-rtdb.firebaseio.com",
+  projectId: "phone-otp-158bd",
+  storageBucket: "phone-otp-158bd.appspot.com",
+  messagingSenderId: "226865888679",
+  appId: "1:226865888679:web:9a90ac904a1be3f3694a82"
   };
       firebase.initializeApp(firebaseConfig);
   render();
