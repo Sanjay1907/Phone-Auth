@@ -1,11 +1,10 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyBfjdiuXLpUcIERAxIVdIVH_5oRd-1gA8c",
-    authDomain: "phone-auth-ba917.firebaseapp.com",
-    projectId: "phone-auth-ba917",
-    storageBucket: "phone-auth-ba917.appspot.com",
-    messagingSenderId: "252592548392",
-    appId: "1:252592548392:web:2938c3c8cae6475e5ea31d",
-    measurementId: "G-C6XJ8ZKWCV"
+    apiKey: "AIzaSyBAoxTTCYebCPvwJwdWGyvEfeYdLYfqn_Y",
+  authDomain: "phone-auth-12dd4.firebaseapp.com",
+  projectId: "phone-auth-12dd4",
+  storageBucket: "phone-auth-12dd4.appspot.com",
+  messagingSenderId: "200067738483",
+  appId: "1:200067738483:web:af32d4276fab248da7b306"
   };
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();
